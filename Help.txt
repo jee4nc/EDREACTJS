@@ -1,0 +1,4 @@
+Para iniciar con YARN START
+es necesario antes proceder a realizar un
+YARN AUTOCLEAN --INIT
+YARN INSTALL 
