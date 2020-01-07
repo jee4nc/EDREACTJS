@@ -4,7 +4,7 @@ class Cards extends Component {
     render() {
         return <article className="card">
         <div className="img-container s-ratio-16-9 s-radius-tr s-radius-tl">
-            <img src="https://res.cloudinary.com/edteam/image/upload/w_400/v1573259688/courses/bi-poster.png" alt="cardss"/>
+            <img src="http://www.milapuntocom.com/wp-content/uploads/2015/08/cats-portada-480x480.jpg" alt="cardss"/>
         </div>
         <div className="card__data s-border s-radius-br s-radius-bl s-pxy-2">
             <h3 className="t5 s-mb-2 s-center">

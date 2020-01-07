@@ -10,7 +10,7 @@ function App() {
       <div className="main-banner img-container l-section" id="main-banner">
         <div className="ed-grid lg-grid-6">
           <div className="lg-cols-4 lg-x-2">
-            <img className="main-banner__img" alt="banner" src="https://www.redeszone.net/app/uploads/2018/11/tsurugi-distribucion-linux.jpg"/>
+            <img className="main-banner__img" alt="banner" src="https://image.freepik.com/free-vector/health-care-background-banner-with-medical-electrocardiogram_1017-20049.jpg"/>
           <div className="main-banner__data s-center">
             <p className="t2 s-mb-0">Este es mi banner</p>
             <p> Y este es el Subtítulo de mi  banner</p>
@@ -20,7 +20,7 @@ function App() {
         </div>
       </div> 
       {/* ACA ESTA LAS CARDS DE EDGRID */}
-      <div className="es-grid m-grid-3">
+      <div className="ed-grid m-grid-3">
         <Cards/>
         <Cards/>
         <Cards/>
