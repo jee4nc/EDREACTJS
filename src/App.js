@@ -20,7 +20,7 @@ function App() {
         </div>
       </div> 
       {/* ACA ESTA LAS CARDS DE EDGRID */}
-      <div className="es-grid m-grid-3">
+      <div className="ed-grid m-grid-3">
         <Cards/>
         <Cards/>
         <Cards/>
