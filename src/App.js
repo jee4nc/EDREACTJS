@@ -23,19 +23,22 @@ function App() {
       <div className="ed-grid m-grid-3">
 
         <Cards 
-        title="Cuchitos negros"
-        price="40CLP" 
-        image="https://i0.wp.com/recetasypoemas.com/wp-content/uploads/2017/04/2c1d1046656edddd5b34d744b3e4e165.jpg?resize=300%2C300&ssl=1"
+        // title="Cuchitos negros"
+        // price="40CLP" 
+        // image="https://i0.wp.com/recetasypoemas.com/wp-content/uploads/2017/04/2c1d1046656edddd5b34d744b3e4e165.jpg?resize=300%2C300&ssl=1"
+        // imagenmini=""
         />
         <Cards 
         title="Cuchitos rubios"
         price="30CLP" 
         image="https://s3.amazonaws.com/ry3/51_i_2003022598.5c6216f6.7831602d.full.jpeg"
+        imagenmini="https://info7rm.blob.core.windows.net/images/2018/03/12/gato5.jpg"
         />
         <Cards 
         title="Cuchitos grises"
         price="20CLP" 
         image="https://cdn.prod-carehubs.net/n1/802899ec472ea3d8/uploads/2014/02/shutterstock_225417641-300x300.jpg"
+        imagenmini="https://info7rm.blob.core.windows.net/images/2018/03/12/gato5.jpg"
         />
       </div>
     </>
